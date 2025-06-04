@@ -1,0 +1,12 @@
+Enrollment Summary:
+
+Total Records: 35
+Student Enrollments: 30
+Instructor Enrollments: 5
+
+Status Distribution:
+- Enrolled: 25
+- Withdrawn: 5
+- Pending: 5
+
+This summary reflects the data from the enrollments table.
